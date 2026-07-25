@@ -2,7 +2,7 @@
   Hi 👋, I'm Rudraksh Kumar
 </h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;Frontend+Developer;C%2B%2B+%7C+JavaScript+%7C+DSA;Always+Learning+New+Things+🚀" />
   </a>
@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=rudrak2005&label=Profile+Views&color=8B5E3C&style=for-the-badge"/>
 </p>
 
----
+--- -->
 
 ## 👨‍💻 About Me
 
