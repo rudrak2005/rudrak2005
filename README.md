@@ -359,17 +359,17 @@ St. Andrew's College, Gorakhpur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rudrak2005&show_icons=true&hide_border=true&theme=dark&bg_color=1B1510&title_color=C9B29B&icon_color=C9B29B&text_color=F5EFE8&include_all_commits=true&count_private=false" height="180" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/rudrak2005/rudrak2005/main/profile/stats.svg" height="180" alt="GitHub stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrak2005&hide_border=true&background=1B1510&ring=C9B29B&fire=C9B29B&currStreakLabel=F5EFE8&sideLabels=C9B29B&dates=B9A18A&sideNums=F5EFE8&currStreakNum=F5EFE8" height="180" alt="GitHub streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrak2005&layout=compact&hide_border=true&theme=dark&bg_color=1B1510&title_color=C9B29B&text_color=F5EFE8" height="180" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/rudrak2005/rudrak2005/main/profile/top-langs.svg" height="180" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrak2005&theme=react-dark&bg_color=1B1510&color=C9B29B&line=C9B29B&point=F5EFE8&area=true&hide_border=true" width="800" alt="Contribution activity graph"/>
+<img src="https://raw.githubusercontent.com/rudrak2005/rudrak2005/main/profile/activity-graph.svg" width="800" alt="Contribution activity graph"/>
 
 </div>
 
@@ -385,11 +385,12 @@ St. Andrew's College, Gorakhpur
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1A1410,50:4A3428,100:1A1410"/>
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rudrak2005&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
+[![Pull Shark](https://img.shields.io/badge/🦈-Pull_Shark-2B1E17?style=for-the-badge)](https://github.com/rudrak2005?tab=achievements)
+[![YOLO](https://img.shields.io/badge/🤠-YOLO-4A3428?style=for-the-badge)](https://github.com/rudrak2005?tab=achievements)
 
 </div>
 
